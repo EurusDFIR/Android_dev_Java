@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Inheritance;
 
 public class Book {
     private String title;

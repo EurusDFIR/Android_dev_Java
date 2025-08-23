@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Inheritance;
 
 public class BankAccount {
     private String accountNumber;
