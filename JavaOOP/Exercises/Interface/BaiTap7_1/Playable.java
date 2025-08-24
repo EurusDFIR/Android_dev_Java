@@ -1,4 +1,4 @@
-package Exercises.Interface;
+package Exercises.Interface.BaiTap7_1;
 
 public interface Playable {
     public void play();
